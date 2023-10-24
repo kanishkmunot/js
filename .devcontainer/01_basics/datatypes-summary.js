@@ -13,3 +13,5 @@ const id = Symbol('123')
 console.log(id);
 
 const heros = ['ca','im','thor','hawk-i']
+
+// Two types of memories - Stack (Primitive) [Copy of variable] and heap (Non-Primitive / Reference type) [Reference of original value]
