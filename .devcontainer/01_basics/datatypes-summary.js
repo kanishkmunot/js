@@ -15,3 +15,4 @@ console.log(id);
 const heros = ['ca','im','thor','hawk-i']
 
 // Two types of memories - Stack (Primitive) [Copy of variable] and heap (Non-Primitive / Reference type) [Reference of original value]
+// Heap gives reference from original value and stack gives the copy of the existing value
