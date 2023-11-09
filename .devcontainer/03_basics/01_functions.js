@@ -41,6 +41,7 @@ function loginUserMessage(username = "sam"){
 function calculateCartPrice(val1, val2, ...num1){
     return num1
 }
+// if we use spred operator, we'll get the output in an array
 
 // console.log(calculateCartPrice(200, 400, 500, 2000))
 
